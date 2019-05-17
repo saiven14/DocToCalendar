@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-DocToCalendar
+BEGIN:VEVENT
+SUMMARY:Topic: Webinar 1 – COSS – Cache Memory
+DTSTART;VALUE=DATE-TIME:20190517T193000
+DTEND;VALUE=DATE-TIME:20190517T203000
+DTSTAMP;VALUE=DATE-TIME:20190517T224444
+UID:Doc2Calendar-1
+DESCRIPTION:Session number: 845 869 013 
+ Session password: e9zMXHQv 
+ ------------------------------------------------------- 
+ To join the training session 
+ ------------------------------------------------------- 
+ 1. Go to https://wilp-bits-pilani.webex.com/wilp-bits-pilani/k2/j.php?MTID=t20a0aa321b0235486ea75a970ebba4f5 
+ 2. Enter your name and email address. 
+ 3. Enter the session password: e9zMXHQv 
+ 4. Click "Join Now". 
+ 5. Follow the instructions that appear on your screen.
+ ================================================
+LOCATION:Online
+ORGANIZER;
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Topic: Webinar 1 – COSS – Cache Memory
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topic: Webinar 2 – COSS – Pipelining Issues
+DESCRIPTION:Host: Admin Lecture 
+DTSTART;VALUE=DATE-TIME:20190528T193000
+DTEND;VALUE=DATE-TIME:20190528T203000
+DTSTAMP;VALUE=DATE-TIME:20190517T224444
+UID:Doc2Calendar-2
+DESCRIPTION:Session number: 843 109 663 
+ Session password: Aqkcmg4u 
+ ------------------------------------------------------- 
+ To join the training session 
+ ------------------------------------------------------- 
+ 1. Go to https://wilp-bits-pilani.webex.com/wilp-bits-pilani/k2/j.php?MTID=tcfb3fbdf79fe8de9815d60c1599d35e2 
+ 2. Enter your name and email address. 
+ 3. Enter the session password: Aqkcmg4u 
+ 4. Click "Join Now". 
+ 5. Follow the instructions that appear on your screen.
+LOCATION:Online
+ORGANIZER;
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Topic: Webinar 2 – COSS – Pipelining Issues
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topic: Webinar 3- COSS – Process Management
+DESCRIPTION:Host: Admin Lecture 
+DTSTART;VALUE=DATE-TIME:20190723T193000
+DTEND;VALUE=DATE-TIME:20190723T203000
+DTSTAMP;VALUE=DATE-TIME:20190517T224444
+UID:Doc2Calendar-3
+DESCRIPTION:Session number: 841 348 977 
+ Session password: ufRmEspi 
+ ------------------------------------------------------- 
+ To join the training session 
+ ------------------------------------------------------- 
+ 1. Go to https://wilp-bits-pilani.webex.com/wilp-bits-pilani/k2/j.php?MTID=t756d78ccba716ef9325a1466da376e95 
+ 2. Enter your name and email address. 
+ 3. Enter the session password: ufRmEspi 
+ 4. Click "Join Now". 
+ 5. Follow the instructions that appear on your screen.
+LOCATION:Online
+ORGANIZER;
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Topic: Webinar 3- COSS – Process Management
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topic: Webinar 4- COSS – Deadlock Handling and Page Replacement Algorithms
+DESCRIPTION:Host: Admin Lecture 
+DTSTART;VALUE=DATE-TIME:20190730T193000
+DTEND;VALUE=DATE-TIME:20190730T203000
+DTSTAMP;VALUE=DATE-TIME:20190517T224444
+UID:Doc2Calendar-4
+DESCRIPTION:Session number: 849 284 671 
+ Session password: fMb33MAU 
+ ------------------------------------------------------- 
+ To join the training session 
+ ------------------------------------------------------- 
+ 1. Go to https://wilp-bits-pilani.webex.com/wilp-bits-pilani/k2/j.php?MTID=tdba1190c2454de9b62389627f5135d94 
+ 2. Enter your name and email address. 
+ 3. Enter the session password: fMb33MAU 
+ 4. Click "Join Now". 
+ 5. Follow the instructions that appear on your screen.
+LOCATION:Online
+ORGANIZER;
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Topic: Webinar 4- COSS – Deadlock Handling and Page Replacement Algorithms
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topic: Webinar - Computer Org & Software Systems 
+DESCRIPTION:Host: Admin Lecture 
+DTSTART;VALUE=DATE-TIME:20190813T193000
+DTEND;VALUE=DATE-TIME:20190813T203000
+DTSTAMP;VALUE=DATE-TIME:20190517T224444
+UID:Doc2Calendar-5
+DESCRIPTION:Session number: 845 208 732 
+ Session password: ZBA9Zmgn 
+ ------------------------------------------------------- 
+ To join the training session 
+ ------------------------------------------------------- 
+ 1. Go to https://wilp-bits-pilani.webex.com/wilp-bits-pilani/k2/j.php?MTID=t9046fdf13ffc1224fd608bf30824f0b4 
+ 2. Enter your name and email address. 
+ 3. Enter the session password: ZBA9Zmgn 
+ 4. Click "Join Now". 
+ 5. Follow the instructions that appear on your screen.
+LOCATION:Online
+ORGANIZER;
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Topic: Webinar - Computer Org & Software Systems 
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
